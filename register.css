@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    background: linear-gradient(rgb(233, 138, 157),rgb(0, 204, 255),rgb(250, 176, 250),rgb(228, 184, 104));
+    font-size:larger;
+    font-style: italic;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    left: 350px;
+    right: 300px;
+    top:80px;
+    bottom: 200px;
+    height: 470px;
+    width: 450px;
+    border: double 6px;
+    text-align: center;
+}
+.box2{
+    height: 800px;
+    width: 100%;
+    background-image: url(https://img.freepik.com/free-photo/colorful-sky-after-sunset_661209-461.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
